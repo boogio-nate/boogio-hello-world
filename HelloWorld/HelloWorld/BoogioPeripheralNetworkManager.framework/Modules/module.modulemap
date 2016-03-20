@@ -1,0 +1,6 @@
+framework module BoogioPeripheralNetworkManager {
+  umbrella header "BoogioPeripheralNetworkManager.h"
+
+  export *
+  module * { export * }
+}
