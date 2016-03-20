@@ -7,12 +7,9 @@ A settings view controller is also included, demonstrating how to scan for and s
 
 This project uses a BoogioPeripheralNetworkManager framework which is still in development but significantly reduces the complexity of this project. As it nears completion, the framework source will be made freely available. 
 
-# GATT Profile
-
-(GATT Pofile link)
 
 
 # Additional Resources
+[Boogio GATT Profile](https://docs.google.com/spreadsheets/d/18u-qWGmsG79L1HoE3lomMrKSECGabgpAPc04W_Xv1y0/edit?usp=sharing)
 
-(CoreBluetooth Documentation)
-(GATT profiles description)
+[CoreBluetooth Documentation](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html)
